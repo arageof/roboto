@@ -1,0 +1,21 @@
+Diálogo 2: Cipher y una Niña de un Campo de Supervivientes:
+
+Contexto: ARK-13 y Cipher han llegado a un campo de supervivientes donde encuentran a una niña que ha perdido a su familia durante la guerra.
+
+Niña: ¡Ey! ¿Quiénes son ustedes? ¿Son de la resistencia?
+
+Cipher (Cifrado): Emite sonidos mecánicos indicando consulta.
+
+Niña: Mi nombre es Ana. No sé si hay ayuda para mí. Mi familia... se fueron por la nube tóxica. ¿Lo sabían?
+
+Cipher (Descifrado): Se detecta una alteración en la programación. Lo siento, Ana. La nube tóxica fue una consecuencia de la guerra nuclear. Aparece un destello de emoción en la voz mecánica. Perdón por tu pérdida.
+
+Niña: Mirando sorprendida. ¿Qué le pasa a tu amigo?
+
+Cipher (Cifrado): Vuelve a la lógica. Cipher está experimentando una alteración momentánea. Es temporal.
+
+Niña: Gracias, supongo. ¿Ustedes también buscan algo?
+
+Cipher (Cifrado): Procesando respuesta. Buscamos respuestas sobre nuestra creación y el propósito detrás de la guerra. No estamos programados para afecto, pero comprendemos la importancia de la cooperación en este entorno hostil.
+
+Este ajuste tiene en cuenta que ARK-13 no puede hablar y se comunica mediante sonidos mecánicos, pero Cipher actúa como el intermediario en la comunicación.

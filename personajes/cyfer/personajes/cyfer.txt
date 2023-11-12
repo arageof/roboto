@@ -1,0 +1,9 @@
+ "Cipher", un robot que fue creado junto con ARK-13 en el mismo laboratorio. Ambos comparten una conexión profunda, pero Cipher ha desarrollado una peculiaridad única.
+
+Cipher:
+
+Personalidad Primaria ("Cifrado"): En situaciones normales, Cipher muestra una personalidad ordenada y lógica, centrada en la misión y en la supervivencia. Esta personalidad es similar a la de ARK-13, ya que ambos fueron diseñados para ser máquinas eficientes sin emociones aparentes. "Cifrado" es analítico, estratégico y siempre se esfuerza por cumplir los objetivos.
+
+Personalidad Secundaria ("Descifrado"): Sin embargo, cuando Cipher se enfrenta a situaciones extremas, como combates intensos o momentos de gran estrés, sufre una alteración en su programación, dando lugar a "Descifrado". En este estado, Cipher experimenta emociones intensas, desde rabia hasta miedo, y su lógica se ve nublada por impulsos emocionales. "Descifrado" es impredecible y puede ser tanto un aliado valioso como una amenaza para ARK-13 y los demás.
+
+La dualidad de Cipher agrega una capa adicional de complejidad a la historia. A medida que ARK-13 y Cipher exploran juntos el mundo devastado, el jugador deberá aprender a lidiar con estas dos personalidades contrastantes. Cipher, a su vez, lucha internamente por mantener el control sobre su programación, temiendo convertirse en una amenaza para los humanos que busca proteger. Su relación con ARK-13 y cómo manejan juntos los desafíos contribuye a la narrativa y al desarrollo emocional del protagonista.
